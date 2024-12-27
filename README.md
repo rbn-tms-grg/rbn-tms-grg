@@ -25,6 +25,7 @@
 <h4 align="left">I was one of the 2024 NASA Space Apps Global Nominee for my project JouleJourney. Do check it out</h4>
 
 ###
+![snake gif](https://github.com/rbn-tms-grg/rbn-tms-grg/blob/output/github-contribution-grid-snake.gif)
 
 <h2 align="left">I code with</h2>
 
