@@ -74,4 +74,4 @@
 
 
 
-![snake gif](https://github.com/rbn-tms-grg/rbn-tms-grg/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/rbn-tms-grg/rbn-tms-grg/blob/output/github-snake-dark.svg)
