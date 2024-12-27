@@ -46,7 +46,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/rbn-tms-grg/rbn-tms-grg/output/snake.svg" alt="Snake animation" />
+![snake gif](https://github.com/rbn-tms-grg/rbn-tms-grg/blob/output/github-snake-dark.svg)
 
 ###
 
@@ -74,4 +74,4 @@
 
 
 
-![snake gif](https://github.com/rbn-tms-grg/rbn-tms-grg/blob/output/github-snake-dark.svg)
+
